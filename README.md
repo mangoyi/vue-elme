@@ -25,12 +25,12 @@ vue.js 高仿饿了么手机端开发 --webapp页面开发流程
 ```
 
 #技术
-	1、vue1.0版本
-	2、vue-resource 前后端交互
-	3、vue-router 前端路由实现单页面
-	4、better-scroll 第三方库
-	5、ES6语法
-	6、styl语法
+```	1、vue1.0版本```
+```	2、vue-resource 前后端交互```
+```	3、vue-router 前端路由实现单页面```
+```	4、better-scroll 第三方库```
+```	5、ES6语法```
+```	6、styl语法```
 #vue.js介绍
 	MVVM框架--针对复杂的交互逻辑应用
 		   --提供基础的架构抽象
